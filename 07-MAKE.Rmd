@@ -1,0 +1,47 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# MAKE (Carbon capture) projects
+
+IPESE is part of the MAKE project on carbon capture (https://www.epfl.ch/education/educational-initiatives/discovery-learning-program-2/interdisciplinary-projects/carbon-capture/). It consists of an interdisciplinary project supported by EPFL aiming at capturing and storing CO2 at large scale. In that scope, IPESE is contributing in process design and optimization.
+
+## Process Design projects
+
+Currently we have two positions open. They can be either a semester or a master project depending on the level of expected work and previous experience of the student.
+The ideal student is/has:
+
+- highly motivated in the topic
+
+- background in process design and development is a plus
+
+- experience in Aspen and/or Gproms
+
+- Python development skills are a plus
+
+- High-level writen and spoken English
+
+The project consists in developing models for adsorption and membrane systems and apply it to direct air capture. An additional storage step might also be modelled depending on the list of expected outcomes.
+Interested students should send an application attaching CV, transcript of records (bachelor and master) and a motivation letter to rafael.amoedo@epfl.ch. Applications are reviewed on a chronological order and the positions remain open until suitable candidates are found.
+
+
+## LCA semester and/or master project
+
+Being able to effectively quantify the environmental impact of a carbon capture unit is crucial to validate the approach of direct air capture units. In this project, the goal is to perform a complete life cycle impact assessment study on different carbon capture technologies, ranging from commercial adsorbents to membrane systems. The prospective students is/has:
+
+
+- highly motivated in the topic
+
+- course on Life cycle assessment in energy systems (EPFL course ENV-510) or an equivalent one
+
+- experience in OpenLCA or SimaPro is a plus
+
+- Python development skills are a plus
+
+- High-level writen and spoken English
+
+### Supervisor
+Rafael Amoedo and Manuele Margni
+
+Interested students should send an application attaching CV, transcript of records (bachelor and master) and a motivation letter to rafael.amoedo@epfl.ch. Applications are reviewed on a chronological order and the positions remain open until suitable candidates are found.

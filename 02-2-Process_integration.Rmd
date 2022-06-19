@@ -1,0 +1,20 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## Study of a dairy process
+
+In collaboration with CremoSA (Villars-sur-Glane) , the goal is in particular to study the integration of high temperature heat pumps in the milk production and the associated industrial site.
+
+The study includes
+
+1. energy audit
+2. hot and cold streams definition
+3. heat recovery
+4. energy conversion system integration
+5. use of the heat pump superstructure model to identify the opportunities for heat pump integration
+6. techno-economic and environmental impact assessement of the heat pumping options and the $CO_2$ mitigation options for the industrial process and the cleaning in place
+7. opportunities for renewable energy integration by investigating the integration of the process in the energy system.
+

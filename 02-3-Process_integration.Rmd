@@ -1,0 +1,20 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## Study of the integration of a malting unit in a brewery
+
+In collaboration with Buehler s.a. , the goal is to study the integration of a malting production unit in a brewery process. 
+
+The study includes
+
+1. process model of a brewery
+2. hot and cold streams definition
+2. process model of the malting unit (definition of the unit-process interface)
+3. heat recovery and process integration options
+4. energy conversion system integration
+6. techno-economic and environmental impact assessment of the malting unit integration
+7. opportunities for renewable energy integration by investigating the integration of the process in the energy system.
+

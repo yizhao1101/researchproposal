@@ -1,0 +1,18 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## Study of the integration of new district integrated with industrial activities in Chamoson.
+
+The goal is a greenfield development of an inndustrial symbiosis cluster that integrates industrial activities and households in a given area. The study will investigate the unit as a renewable energy hub, investigating ways to harvest, store and supply the energy to an eco industrial cluster and an associated eco-district.
+
+The study includes
+
+1. modeling of the urban area demand
+2. modeling of the  industrial cluster demand
+1. modeling the renewable energy resources
+2. definition of the integrated renewable energy hub superstructure
+2. development of a collection of options with a paramterised approach (list of options  as a function of indicators like sustainable development indicators, size of the project, profit)
+

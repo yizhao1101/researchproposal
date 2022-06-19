@@ -1,0 +1,45 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Collaborations
+## GENESIS - Clearsky
+*Master project*
+
+The GENESIS project will gauge the environmental sustainability of electric aircraft (A/C) in a life-cycle-based, foresight perspective to support the development of a technology roadmap for transitioning towards sustainable and competitive electric A/C systems. The focus is on regional class, 50 passengers aircraft to identify, design and assess prospectively the best energy storage and transmission topology. Different alternatives within battery, fuel cell, hybrid and conventional powertrain technologies are evaluated and compared over different time horizons. This project will allow highlighting technological limits and potential solutions within each component of the aircraft system life cycle, which includes the life cycle of the aircraft itself as well as the life cycle of the fuels and that of the on-ground infrastructures.
+
+
+### Introduction
+
+To realize future concepts for hybrid electric aircraft, existing technology gaps and barriers for energy storage, supply and transmission will need to be overcome. New and disruptive solutions will be required e.g. for compact and lightweight modules for electrochemical power sources, power electronics and electric drives, as well as for on ground energy supply solutions.
+Based on the requirement analysis, a bottom-up technology analysis shall be made for the most relevant technologies with a perspective on the selected technology streams and timeframes.  Considering the three major technology streams and the relevant system for energy handling the analysis can be structured into sub-tasks oriented towards battery technology, fuel cell technology, technology for turbine / ICE propelled generator sets, and hybrid technologies resulting from their combination as well as on-ground energy supply to aircraft.
+
+Although fuel cell based hybrid systems represent a very large potential for meeting the challenges of an environmentally-sustainable energy supply for aircraft, research is still at its infancy and little results and little implementation in actual aircraft applications have been realized (and none for regional class aircraft). In addition, a complete systematic overview of possibilities for producing hydrogen fuel with low environmental impacts (e.g. from renewable energy sources, like wind power) and for enabling its storage in aircraft remains to be made.
+
+### Objectives
+The goal of this master thesis would be to design a hybridization algorithm on the energy system of the aircraft. The model should consider many different variables and find the optimum configuration according to specific requirements. The analysis should be based on technology performances, voltage curves, costs and GHG emissions. In addition, simulations of the functional behavior of the power system (fuel cells combined with batteries) for a regional electric aircraft for 50 passengers should be implemented.
+
+### Tasks
+- Short overview of the current and forecast performances of battery and FCs
+- Development of a hybrid system model to simulate the behavior of the battery and the fuel cell.
+- Development of the hybridization algorithm to optimize the power system.
+   - Integration of the degradation for batteries based on [Open-sesame](https://gitlab.ti.bfh.ch/oss/esrec/open-sesame).
+   - Integration of degradation for FCs
+- Simulations for different timelines (2030, 2040, 2050+)
+- Simulations for different fuel – H2 – CH4
+- Opportunity to publish an article and be co-author on the next GENESIS report.
+
+### Supervision
+- Collaboration between GEM-EPFL and BFH energy storage research center.
+- Place: Sion & Bienne
+- Professor:  Prof. Jan Van herle
+- Supervisor: PhD student (GEM), Bruno Lemoine (BFH)
+
+Interested students should send an application attaching CV, transcript of records (bachelor and master) and a motivation letter to jan.vanherle@epfl.ch. Applications are reviewed on a chronological order and the positions remain open until suitable candidates are found.
+
+### Additional material
+- [Article on the topic similar to the project](https://doi.org/10.3390/en15093364)
+- Website for information on [GENESIS](https://www.genesis-cleansky.eu/)
+- Website for information on [BFH-ESReC](https://www.bfh.ch/en/research/research-areas/bfh-centre-energy-storage/)
+

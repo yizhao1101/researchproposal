@@ -1,0 +1,40 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## Process modeling and waste heat recovery from high and low temperature energy technologies in the aluminium production sector (NetZero Lab)
+
+Contact: Daniel Flórez-Orrego, daniel.florezorrego@epfl.ch
+
+Semester/Master project in collaboration with Novelis company
+
+### Objectives
+The goal is to simulate the heat transfer phenomena (residence time, interfaces) and the waste heat recovery potential (preheating, waste heat upgrating) in the aluminium production in a real plant in Switzerland. The goal is attaining Net Zero by the next decade.
+
+### Profile
+-Interest in heat transfer theory, energy conversion systems and energy integration method.
+-knowledge on heat transfer in high temperature energy systems (furnaces and waste heat recovery) and fluid mechanics.
+-Some knowledge on R, Python and Lua is desirable. Experience with Ansys software is also recommendable.
+
+
+### Project plan
+The study includes:
+
+1. energy audit and interaction with industry
+2. hot and cold streams definition
+3. heat transfer modeling and simulation
+4. energy integration and exergy analysis of the heat recovery processes
+5. techno-economic and environmental impact of the proposed systems
+6. opportunities for renewable energy integration and fossil fuel replacement
+
+### Observation
+The project is related to the Net Zero Lab in collaboration with Novelis Sierre and HESSO Valais.
+
+### Sources
+See more at: https://www.novelis.com/net-zero-lab-valais/
+
+### Supervisors
+Daniel Flórez-Orrego, daniel.florez.orrego@epfl.ch
+Francois Maréchal, francois.marechal@epfl.ch

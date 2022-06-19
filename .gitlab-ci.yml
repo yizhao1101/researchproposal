@@ -1,0 +1,3 @@
+include:
+  - project: 'ipese-it/gitlabci-templates'
+    file: 'Bookdown.gitlab-ci-templates.yml'

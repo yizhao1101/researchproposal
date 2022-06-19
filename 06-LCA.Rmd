@@ -1,0 +1,53 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Life Cycle Analysis projects
+
+## Couplage indicateur de circularité et ACV
+*Master project*
+
+
+### Descriptif du projet
+à l’interface entre économie circulaire et Analyse du Cycle de Vie (ACV)
+
+
+La transition d’un modèle d’affaire linéaire à un modèle circulaire implique d’être capable de mesurer et de rendre compte des progrès à travers des cadres de suivi, des outils d’évaluation et des indicateurs. Au cours des quatre dernières années, les publications sur les indicateurs d’EC ont augmenté, mais aucun ne fait encore consensus. De plus, malgré un nombre croissant d’indicateurs au niveau produit, leur adoption dans le milieu industriel reste encore faible. Les développements nouveaux en la matière doivent se faire sur la base de connaissances sur la mesure de durabilité environnementale à la fois nouvelles et bien ancrées dans la science.
+Alors que les frontières des connaissances en ACV (environnementale) ont tendance à s'étendre en intégrant d’avantage de connaissances sur la durabilité environnementale, les propositions d’indicateurs de circularité ont tendance à se disperser sporadiquement. On est donc en mesure de se demander si l’objectif de ces nouveaux indicateurs de circularité est d’améliorer notre compréhension des enjeux de durabilité ? Pourquoi n'intégreraient-ils pas davantage les connaissances actuelles alors que l'ACV le fait ? En outre, quel est l'apport intellectuel de l’évaluation de la circularité ?
+Aujourd’hui, beaucoup de compagnies cherchent à se positionner sur le concept d’EC et on observe progressivement un éveil des consciences sur le potentiel d’intégrer les connaissances en ACV pour développer des indicateurs de circularité notamment dans les services conseil. Les indicateurs de circularité, au même titre que l’ACV, sont des thématiques de recherche plus que jamais d’actualité.
+
+### Le projet
+
+Ce projet vise à développer des outils d’aide à la décision pour permettre aux entreprises d’effectuer la transition d’un modèle d’affaire linéaire à un modèle circulaire, plus respectueux de l’environnement et des hommes. Beaucoup d’indicateurs au niveau produit ont été proposés dans la littérature scientifique ces dernières années mais un problème fondamental subsiste : leur calcul repose sur une modélisation « produit » et non « fonction » comme c’est le cas de l’ACV.
+L’idée c’est donc de tirer profit de la modélisation ACV pour calculer la performance circulaire d’un produit ou d’un service. Le projet se déroulera de la façon suivante :
+- Regarder ce que la littérature propose comme indicateur de circularité pour répondre à chacune de ces caractéristiques de la circularité (sur la base d’un travail déjà mené en interne).
+
+- Construire un (ou plusieurs) indicateur(s) sur la base de l’indicateur développé en interne chez Capgemini Engineering et qui s’inspire du Material Circularity Indicator de la Fondation Ellen MacArthur. L’indicateur (ou les indicateurs) devra(ont) réunir autant de variables que les stratégies d’EC permettent d’adresser : utiliser des matériaux biosourcés, incinérer, recycler, réutiliser, réparer, reconditionner, mais aussi dématérialiser, augmenter la durée de vie, augmenter le taux d’utilisation et autre à déterminer.
+- Identifier les paramètres à extraire de la modélisation ACV, les variables d’entrée supplémentaires et définir une stratégie d’implémentation dans un outil dont le support reste à déterminer. Il faudra également prévoir la possibilité d’importer des données complémentaires comme des facteurs de criticités des matériaux par exemple.
+
+En parallèle de ce travail, il sera opportun de réfléchir à l’interprétation de ce (ou ces) indicateurs en combinaison avec les scores d’impacts environnementaux pour l’aide à la décision en répondant notamment aux questions suivantes : Qu’est-ce que les indicateurs de circularité apportent comme information que l’ACV ne fait pas ? Quels acteurs/enjeux mobilisent-ils ?
+
+### Livrables attendus
+
+- Un document de synthèse mis à la disposition des encadrants du projet.
+- Contribution à la rédaction d'un article scientifique à soumettre dans un journal à comité de relecture (à déterminer).
+
+### Aspects administratifs du projet
+Ce projet est réalisé en collaboration avec l'entreprise "Capgemini Engineering" et encadré par:
+
+- Manuele Margni, Ph.D., M.Sc. A., B. Ing. : Professeur à Polytechnique Montréal, Professeur HES-SO Valais Wallis et invité académique EPFL auprès du laboratoire IPESE du Pr. François Maréchal situé à Energypolis à Sion. mailto:manuele.margni@hevs.ch.
+- Geoffrey Lonca, Ph.D., M. Ing., B. Ing. : ingénieur consultant chez Capgemini Engineering à Toulouse (France) et titulaire d’un doctorat en Génie Industriel de l’école Polytechnique de Montréal, mené au CIRAIG.
+
+### Prérequis
+
+- Le stage peut être réalisé en français ou en anglais.
+- Lieu : Laboratoire IPESE Sion avec flexibilité de home office
+- Avoir suivi un cours ACV de l’EPFL ou équivalent
+
+#### Extension possible du projet : opérationnalisation
+Il sera offert (et encouragé) la possibilité de poursuivre le projet vers l’implémentation de l’outil dans le logiciel Brightway2 (ou tout autre support pertinent à déterminer). Le candidat sera alors invité à développer l’outil au sein de Capgemini Engineering dans le cadre d’un stage.
+
+#### A propos de Capgemini Engineering:
+Capgemini Engineering fait partie du groupe Capgemini, un leader mondial, responsable et multiculturel, regroupant 270 000 personnes dans près de 50 pays. Capgemini Engineering est la marque du groupe Capgemini réunissant les services d’ingénierie et de R&D de Capgemini Engineering, leader mondial du secteur dont Capgemini a finalisé l’acquisition en 2020, et l’expertise de Capgemini dans le domaine du digital manufacturing. Capgemini Engineering compte plus de 52 000 ingénieurs et scientifiques dans plus de 30 pays, dans des secteurs tels que l’aéronautique, l’automobile, le ferroviaire, les communications, l’énergie, les sciences de la vie, les semi-conducteurs, les logiciels et l’Internet, l’aérospatial et la défense, et les biens de consommation. Dans ce cadre, la direction R&I de Capgemini Engineering a lancé un projet de recherche afin de considérer les aspects relatifs à l’économie circulaire (EC) dans l’industrie.
+
