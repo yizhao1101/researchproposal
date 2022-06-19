@@ -1,8 +1,0 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
-# Energy systems
-
-Currently no positions and projects available.
