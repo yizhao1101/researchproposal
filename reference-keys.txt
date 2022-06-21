@@ -3,7 +3,7 @@ fig:refinery-l2
 fig:refinery-lcf1
 fig:refinery-chemical1
 introduction
-optimal-renewable-integration-in-a-refinery
+optimal-renewable-integration-in-a-refinery-combined-heat-power-and-hydrogen-production
 context
 literature-review
 problem-statement
@@ -17,7 +17,7 @@ the-missions
 for-candidates-1
 supervising-1
 practical-information-1
-crude-oil-to-chemicals-process-design-and-life-cycle-assessment
+the-future-of-chemical-production-crude-oil-to-chemicals
 context-2
 literature-study-1
 the-missions-1
